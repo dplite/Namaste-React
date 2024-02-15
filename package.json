@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dplite/Namaste-React.git"
+  },
+  "author": "DP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dplite/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/dplite/Namaste-React#readme"
+}
