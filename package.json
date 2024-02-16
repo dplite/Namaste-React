@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/dplite/Namaste-React/issues"
   },
-  "homepage": "https://github.com/dplite/Namaste-React#readme"
+  "homepage": "https://github.com/dplite/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }

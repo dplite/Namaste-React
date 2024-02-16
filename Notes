@@ -1,2 +1,12 @@
 pACKAGE.JSON IS A CONFIGURATION FILE FOR NPM
 npx create react app creates a production ready react env which is optimized from the get go.
+
+Dependency---2 types
+DEv Dependency  used for developement
+Normal Dependency
+
+"parcel": "^2.11.0"  ^=caret ~ tilda: caret upgrades automatically if it is a minor update.tilda updates when major updates are pushed into the package
+
+Package JSON keeps approx version of the package installed. Package lock locks the version that is keeps the exact version of the package installed
+
+Transtitive Dependency:- our package needs other packages which needs other packages hence transaitive Dependency
